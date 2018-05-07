@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/src/emokit.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+emokit/emokit.h
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/src/emokit/emokit.h
+hidapi/hidapi.h
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/src/hidapi/hidapi.h
+mcrypt.h
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/src/mcrypt.h
+
+/usr/local/include/hidapi/hidapi.h
+wchar.h
+-
+
+/usr/local/include/mcrypt.h
+mutils/mcrypt.h
+-
+
+/usr/local/include/mutils/mcrypt.h
+
+include/emokit/emokit.h
+stdint.h
+-
+

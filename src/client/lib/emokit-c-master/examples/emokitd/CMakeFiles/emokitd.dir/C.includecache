@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/emokitd/emokitd.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+fcntl.h
+-
+unistd.h
+-
+syslog.h
+-
+signal.h
+-
+pthread.h
+-
+sys/resource.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+emokit/emokit.h
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/emokitd/emokit/emokit.h
+emokitd.h
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/emokitd/emokitd.h
+
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/emokitd/emokitd.h
+sys/stat.h
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/emokitd/sys/stat.h
+
+include/emokit/emokit.h
+stdint.h
+-
+

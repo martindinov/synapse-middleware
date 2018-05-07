@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/System/Library/Frameworks/JavaVM.framework/Headers/jni.h
+stdio.h
+-
+stdarg.h
+-
+jni_md.h
+/System/Library/Frameworks/JavaVM.framework/Headers/jni_md.h
+
+/System/Library/Frameworks/JavaVM.framework/Headers/jni_md.h
+
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/contact.c
+jni.h
+-
+stdio.h
+-
+string.h
+-
+signal.h
+-
+emokit/emokit.h
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/emokit/emokit.h
+headsets_epoc_EpocConnector.h
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/headsets_epoc_EpocConnector.h
+
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/headsets_epoc_EpocConnector.h
+jni.h
+-
+
+include/emokit/emokit.h
+stdint.h
+-
+

@@ -1,0 +1,7 @@
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/CMakeFiles/edit_cache.dir
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/CMakeFiles/rebuild_cache.dir
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/CMakeFiles/install/local.dir
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/CMakeFiles/list_install_components.dir
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/CMakeFiles/install.dir
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/CMakeFiles/install/strip.dir
+/Users/md/Desktop/Dropbox/Synapse/src/client/lib/emokit-c-master/examples/contact/CMakeFiles/contact.dir

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="javah">
+	
+    <mkdir dir="javah" />
+
+	<path id="build.path">
+	  	<pathelement location="target/classes"/>
+	  	<pathelement location="${classpath}"/>
+    	<pathelement location="${plugin_classpath}"/>
+    	<pathelement location="${compile_classpath}"/>
+    	<pathelement location="${runtime_classpath}"/>
+    	<pathelement location="${runtime_classpath}"/>
+	  	<pathelement location="${M2_REPO}"/>
+	  	<pathelement location="${M2_REPO}/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.0.2/org.eclipse.paho.client.mqttv3-1.0.2.jar"/>
+	</path>
+
+    <javah classpathref="build.path" destdir="javah">
+        <!-- list classes here -->
+        <class name="headsets.epoc.EpocConnector" />
+    </javah>
+    
+    
+</project>
+
+
+
